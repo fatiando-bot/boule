@@ -1,0 +1,12 @@
+boule.function
+==============
+
+.. currentmodule:: boule
+
+.. autofunction:: function
+
+.. include:: backreferences/boule.function.examples
+
+.. raw:: html
+
+     <div style='clear:both'></div>
